@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430641004241",
+    "project_id": "lysty-98224",
+    "storage_bucket": "lysty-98224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430641004241:android:62bdb5ad975f94423c4ff0",
+        "android_client_info": {
+          "package_name": "com.example.lysty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430641004241-o1rnj32ujcb9e0p0vtenmtokrkpg0plh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeyLQfnC4PZc0cZIaTP2wegC0HfGvyXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430641004241-o1rnj32ujcb9e0p0vtenmtokrkpg0plh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
